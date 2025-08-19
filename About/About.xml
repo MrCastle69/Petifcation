@@ -20,8 +20,8 @@
 		</li>
 		<li>
 			<packageId>EBSG.Framework</packageId>
-			<displayName>EBAG Framework</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1854607105</steamWorkshopUrl>
+			<displayName>EBSG Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3112549163</steamWorkshopUrl>
 			<downloadUrl>https://steamcommunity.com/workshop/filedetails/?id=3112549163</downloadUrl>
 		</li>
 		<li>
@@ -41,4 +41,5 @@
 		<li>EBSG.Framework</li>
 	</loadAfter>
 	<packageId>castle.petifcation</packageId>
+
 </ModMetaData>
